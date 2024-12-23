@@ -52,7 +52,7 @@
     border: 10px solid black;
 }
 /* تنسيق الصفحة الخارجية */
-.more-items{
+.more{
     width: 550px;
     margin: 0 auto;
     text-align: center;
@@ -88,8 +88,14 @@
 }
 .faq{
     padding: 15px;
+    .question{
+        font-size: 18px;
+    }
 }
-.more-items{
+.more{
     width: 90%;
+    img{
+        width: 90%;
+    }
 }
 }
