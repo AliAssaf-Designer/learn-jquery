@@ -69,3 +69,27 @@
 .icon{
     float: left;
 }
+
+@media screen and (max-width: 768px) {
+.blog{
+    width: 100%;
+    h1{
+        font-size: 50px;
+    }
+}
+.box{
+    width: 90%;
+    padding: 18px;
+    .box-close{
+        width: 23px;
+        height: 23px;
+        line-height: 22px;
+    }
+}
+.faq{
+    padding: 15px;
+}
+.more-items{
+    width: 90%;
+}
+}
