@@ -58,7 +58,7 @@
     text-align: center;
     line-height: 1.8;
     font-size: 18px;
-    img{
+    .hero-img{
         width: 100%;
     }
 }
@@ -94,7 +94,7 @@
 }
 .more{
     width: 90%;
-    img{
+    .hero-img{
         width: 90%;
     }
 }
